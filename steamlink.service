@@ -1,7 +1,6 @@
 [Unit]
 Description=Steamlink
 After=graphical.target
-Conflicts=mediacenter.service
 
 [Service]
 Type=idle
